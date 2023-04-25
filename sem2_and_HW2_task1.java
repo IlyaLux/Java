@@ -1,6 +1,6 @@
 package org.sem1;
 
-public class sem2_task {
+public class sem2_and_HW2_task1 {
 //    Самолет построим сами,
 //    Понесемся над лесами,
 //    Понесемся над лесами,

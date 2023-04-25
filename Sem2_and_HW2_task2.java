@@ -4,7 +4,7 @@
 //        Основание 4, стапень 7, результат равен
 package org.sem1;
 
-public class Sem2_task1 {
+public class Sem2_and_HW2_task2 {
     public static void main(String[] args) {
         System.out.println(parse_string("Основание -5, стапень -3, результат равен"));
         System.out.println(parse_string("Основание 127, стапень 2, результат равен"));
